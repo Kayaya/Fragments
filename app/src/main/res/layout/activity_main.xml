@@ -7,7 +7,7 @@
     <fragment class="com.example.a1kayat34.fragments.MapFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/mapFrag">
+        android:id="@+id/mapFragmentID">
 
     </fragment>
 
